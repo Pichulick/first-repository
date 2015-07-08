@@ -1,0 +1,8 @@
+<?php
+echo "Hi!"."<br>";
+$names = array ("What?", "Who?", "CIKA CIKA Slim Shady!");
+foreach ($names as $myName)
+{
+echo "My name is " .$myName . "<br>";
+}
+?>
